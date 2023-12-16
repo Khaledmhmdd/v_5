@@ -11,7 +11,7 @@ double multi(double a, double b) {
 
 int main() {
     // Get user input for two numbers
-    double num1, num2;
+    double num1, num2  
     std::cout << "Enter the first number: ";
     std::cin >> num1;
     std::cout << "Enter the second number: ";
